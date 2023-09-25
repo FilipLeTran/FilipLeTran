@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=2000&pause=1000&width=435&lines=Welcome+to+my+page!..;Aspiring+software+engineer...;Fullstack+developer...;It's+a+me...+Filip%3F.." alt="Header-welcome"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=30&duration=2000&pause=1000&width=435&lines=Aspiring+software+engineer...;Fullstack+developer...;It%27s+a+me...+Filip%21" alt="Header-welcome"/>
  
  <p> <i>Master of Science graduate in ICT with a focus on software development and UI/UX with a passion for problem-solving. Loves to work in teams and can work independently both in software development and outside. My current pursuit is to acquire more knowledge within fullstack development and all the inner workings around it. Never stops learning... </i></p>
 
