@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=2000&pause=1000&width=435&lines=Welcome+to+my+page!..;Aspiring+software+engineer...;Fullstack+developer...;It's+a+me...+Filip%3F.." alt="Header-welcome"/>
  
- <p> <i>Master of science graduate in ICT with focus on software development with passion for problem solving. Loves to work in teams and can work independently both in software development and outside. Current pursuit is to acquire more knowledge within fullstack development and all the inner workings around it. Never stops learning... </i></p>
+ <p> <i>Master of Science graduate in ICT with a focus on software development and UI/UX with a passion for problem-solving. Loves to work in teams and can work independently both in software development and outside. My current pursuit is to acquire more knowledge within fullstack development and all the inner workings around it. Never stops learning... </i></p>
 
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
