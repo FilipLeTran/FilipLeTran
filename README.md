@@ -98,9 +98,9 @@
 
 <p align="center">
   <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br> -->
+ </br> 
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=filipletran"/>
- </br>
+ </br>-->
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipletran&hide=jupyter%20notebook&langs_count=6&layout=compact&bg_color=transparent" />
 </p>
      
