@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=22&duration=1500&pause=1000&width=435&lines=Aspiring+software+engineer...;Fullstack+developer%2C+focus+on+frontend;It's+a+me...+Filip%21" alt="Header-welcome"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=22&duration=1500&pause=1000&width=435&lines=Software+engineer graduate...;Fullstack+developer;It's+a+me...+Filip%21" alt="Header-welcome"/>
  
  <p> <i>Master of Science graduate in ICT with a focus on software development and UI/UX with a passion for problem-solving. Loves to work in teams and can work independently both in software development and outside. My current pursuit is to acquire more knowledge within fullstack development and all the inner workings around it. Never stops learning... </i></p>
 
@@ -37,6 +37,7 @@
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=Csharp)&nbsp;
+![C](https://img.shields.io/badge/-C-283593?style=flat&logo=C)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/Typescript-007acc?style=flat&logo=Typescript&logoColor=white)&nbsp;
 <!-- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A)&nbsp; -->
